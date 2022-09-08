@@ -1,0 +1,51 @@
+{
+  "id": "3261764",
+  "name": "AMS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8094215",
+      "name": "维修管理",
+      "font_class": "weixiuguanli",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "24532009",
+      "name": "i_4借还管理",
+      "font_class": "i_4jiehuanguanli",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "2675009",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "5582338",
+      "name": "资产管理",
+      "font_class": "zichanguanli",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "7474671",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "17465087",
+      "name": "采购管理",
+      "font_class": "caigouguanli",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
